@@ -1,18 +1,13 @@
-# 🌐 Zion AI App Network
+# Site Survey Planner — Zion AI App Network
 
-This app is part of the **Zion AI App Network** — 770+ interlinked AI apps by Zion Tech Group.
+Part of the **Zion AI App Network** (830+ free, production-ready AI apps).
 
-## 🔗 Network links
-- Network hub: https://ziontechgroup.com/zion-app-network/
-- Apps index: https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md
-- Latest updates: https://github.com/Zion-support/zion-app-network/blob/main/APP_NETWORK_LATEST.md
-- **Free Discovery (find your perfect apps in 2 min):** https://ziontechgroup.com/app-network-discovery.html
+- 🏠 Homepage: https://ziontechgroup.com
+- 🗂️ Master directory: https://ziontechgroup.com/zion-app-network/
+- 🌐 Network hub (GitHub): https://github.com/Zion-support/zion-app-network
+- 🚀 Live app: https://ziontechgroup.com/site-survey-planner/
+- 🧭 Free AI Discovery (tailored shortlist, instant results): https://ziontechgroup.com/discovery/
+- 💼 Commercial: commercial@ziontechgroup.com · Plans: https://ziontechgroup.com/en/plans/
 
-## 🛠️ Batch 74 — Support & Reliability AI
-- [Support Ticket Triager](https://github.com/Zion-support/support-ticket-triager)
-- [SLA Breach Predictor](https://github.com/Zion-support/sla-breach-predictor)
-- [Tech Debt Radar](https://github.com/Zion-support/tech-debt-radar)
-- Site Survey Planner (this repo)
-- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html
-
-Contact: commercial@ziontechgroup.com · https://ziontechgroup.com
+---
+© 2026 Zion Tech Group
