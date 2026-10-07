@@ -1,13 +1,16 @@
-# Site Survey Planner — Zion AI App Network
+# Zion AI App Network — Interlinks
 
-Part of the **Zion AI App Network** (830+ free, production-ready AI apps).
+This app is part of the **Zion AI App Network**: 300+ free, open-source, interlinked AI tools maintained by Zion Tech Group.
 
 - 🏠 Homepage: https://ziontechgroup.com
-- 🗂️ Master directory: https://ziontechgroup.com/zion-app-network/
-- 🌐 Network hub (GitHub): https://github.com/Zion-support/zion-app-network
-- 🚀 Live app: https://ziontechgroup.com/site-survey-planner/
-- 🧭 Free AI Discovery (tailored shortlist, instant results): https://ziontechgroup.com/discovery/
-- 💼 Commercial: commercial@ziontechgroup.com · Plans: https://ziontechgroup.com/en/plans/
+- 🧭 Apps catalog: https://ziontechgroup.com/apps/
+- 🗺️ Network map: https://ziontechgroup.com/apps/network.html
+- 🌐 Network hub: https://ziontechgroup.com/zion-app-network/
+- 📚 Content hub (guides & spotlights): https://ziontechgroup.com/apps/content-hub.html
+- 🆓 Free AI Discovery (always online, always free): https://ziontechgroup.com/discovery/
+- 💼 GitHub org: https://github.com/Zion-support
+- ✉️ Commercial: commercial@ziontechgroup.com
 
----
-© 2026 Zion Tech Group
+**Free Discovery benefits:** answer ~6 questions, get an instant on-screen report with matched apps plus an email copy to you and commercial@ziontechgroup.com the moment you submit. No signup, no card, always free.
+
+**Latest batches:** Batch 85 HR & People AI · Batch 84 Nonprofit & Social Impact AI · Batch 83 Insurance & Risk AI · Batch 82 Telecom & Connectivity AI — https://ziontechgroup.com/apps/
