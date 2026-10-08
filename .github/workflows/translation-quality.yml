@@ -1,0 +1,14 @@
+name: Static translation quality
+on:
+  push:
+    paths: ['index.html', 'pt/**', 'es/**', 'fr/**', 'de/**', 'scripts/test-locales.py', '.github/workflows/translation-quality.yml']
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  locale-contract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/test-locales.py
