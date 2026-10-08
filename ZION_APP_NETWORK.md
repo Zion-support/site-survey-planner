@@ -1,10 +1,13 @@
 # Zion App Network — Site Survey Planner interlinks
 
-Site Survey Planner provides a human-reviewed planning checklist. It is not an implemented ERP/CRM connector, AI route optimizer or dispatch booking system. A reachable page is not proof of production readiness.
+Site Survey Planner provides a human-reviewed planning checklist, now translated in five languages. It is not an implemented ERP/CRM connector, AI route optimizer or dispatch booking system. A reachable page is not proof of production readiness.
 
+## Five equivalent survey pages
+[English](https://ziontechgroup.com/site-survey-planner/) · [Português](https://ziontechgroup.com/site-survey-planner/pt/) · [Español](https://ziontechgroup.com/site-survey-planner/es/) · [Français](https://ziontechgroup.com/site-survey-planner/fr/) · [Deutsch](https://ziontechgroup.com/site-survey-planner/de/)
+
+## Canonical network paths
 - [Home](https://ziontechgroup.com/)
-- [Live planner](https://ziontechgroup.com/site-survey-planner/)
-- [Apps catalog](https://ziontechgroup.com/apps/)
+- [Full app catalog](https://ziontechgroup.com/apps/)
 - [Network map](https://ziontechgroup.com/apps/network.html)
 - [Network hub](https://ziontechgroup.com/zion-app-network/)
 - [Free Discovery](https://ziontechgroup.com/discovery/)
@@ -12,12 +15,15 @@ Site Survey Planner provides a human-reviewed planning checklist. It is not an i
 - [App Experiment Planner](https://ziontechgroup.com/apps/app-experiment-planner.html)
 - [Automation Pilot Planner](https://ziontechgroup.com/automation-pilot-planner/)
 - [ROI Calculator](https://ziontechgroup.com/roi-calc/)
+- [FinOps Estimator](https://ziontechgroup.com/finops-estimator/)
 - [AI Governance Checklist](https://ziontechgroup.com/ai-governance-checklist/)
 - [SLA Calculator](https://ziontechgroup.com/sla-calculator/)
 
-## Translated experiment guides
-[English](https://ziontechgroup.com/apps/app-experiment-planner.html) · [Português](https://ziontechgroup.com/pt/apps/app-experiment-planner.html) · [Español](https://ziontechgroup.com/es/apps/app-experiment-planner.html) · [Français](https://ziontechgroup.com/fr/apps/app-experiment-planner.html) · [Deutsch](https://ziontechgroup.com/de/apps/app-experiment-planner.html)
+## Curated translated planning directories
+[English](https://ziontechgroup.com/apps/planning-tools.html) · [Português](https://ziontechgroup.com/pt/apps/) · [Español](https://ziontechgroup.com/es/apps/) · [Français](https://ziontechgroup.com/fr/apps/) · [Deutsch](https://ziontechgroup.com/de/apps/)
 
-Discovery remains free and online. It shows a report immediately in the browser and requests email delivery to the client and commercial@ziontechgroup.com, with Carlos copied. Provider acceptance is not confirmed inbox delivery. Copy/download is available without purchasing or attending a meeting. No historical app count or unverified latest-batch label is asserted here.
+These directories provide a curated planning selection, not a complete translated catalog. Survey pages and directories preserve language when opening the experiment planner and free Discovery. Related legacy tool interfaces may use another language.
 
-Translation scope: the linked planner is fully translated in five languages; this standalone landing page is currently English. Full-network interface translation remains an audited backlog, not a completed claim.
+Discovery remains free and online. It shows a report immediately in the browser and requests email delivery to the client and commercial@ziontechgroup.com, with Carlos copied. Provider acceptance is not confirmed inbox delivery. Copy/download is available without purchasing or attending a meeting.
+
+See [translation contract](TRANSLATIONS.md). Full-network interface translation remains an audited backlog, not a completed claim. No historical app count or unverified latest-batch label is asserted here.
